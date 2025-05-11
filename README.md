@@ -8,7 +8,6 @@ This project involves Exploratory Data Analysis of the Zomato restaurant dataset
 ## 📁 Project Structure
 - `zomato_analysis.ipynb`: Data cleaning and feature engineering in Python
 - `zomato_cleaned.csv`: Cleaned dataset used in Tableau
-- `dashboard_screenshot.png`: Preview of the final dashboard
 - `dashboard_link.txt`: Tableau Public link
 
 ## 🔧 Tools Used
